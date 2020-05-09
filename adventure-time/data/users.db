@@ -1,4 +1,3 @@
 {"_id":"Roozgd0vq3r0K5sn","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#83cc28","hotbar":{"1":"7UaP0ebCDYWIWYKu"}}
-{"_id":"any1EEmsFSrDqqAj","name":"Sarah","flags":{},"role":1,"permissions":{},"password":"tacos","color":"#cc3128","hotbar":{}}
-{"_id":"ql4HfhWNkIP1ODec","name":"Jason","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"BxCyYQbnyEPDSGhy","color":"#284acc","hotbar":{}}
 {"_id":"any1EEmsFSrDqqAj","name":"Sarah","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"","color":"#cc3128","hotbar":{}}
+{"_id":"ql4HfhWNkIP1ODec","name":"Jason","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"BxCyYQbnyEPDSGhy","color":"#284acc","hotbar":{}}
