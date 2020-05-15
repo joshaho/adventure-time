@@ -1,3 +1,9 @@
-{"_id":"Roozgd0vq3r0K5sn","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#83cc28","hotbar":{"1":"7UaP0ebCDYWIWYKu"}}
+{"_id":"6yd2sn09q3zhMLRM","name":"Garret","flags":{},"role":1,"permissions":{},"password":"tacos","color":"#28cc89","hotbar":{}}
+{"_id":"Roozgd0vq3r0K5sn","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#83cc28","hotbar":{}}
 {"_id":"any1EEmsFSrDqqAj","name":"Sarah","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"","color":"#cc3128","hotbar":{}}
-{"_id":"ql4HfhWNkIP1ODec","name":"Jason","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"BxCyYQbnyEPDSGhy","color":"#284acc","hotbar":{}}
+{"_id":"ch5lP5k42S9xpDPD","name":"Rissy","flags":{},"role":1,"permissions":{},"password":"tacos","color":"#cc284e","hotbar":{}}
+{"_id":"ql4HfhWNkIP1ODec","name":"Jason","flags":{},"role":1,"permissions":{},"password":"tacos","avatar":"icons/svg/mystery-man.svg","character":"","color":"#284acc","hotbar":{}}
+{"name":"Player 6","flags":{},"role":1,"permissions":{},"color":"#41cc28","hotbar":{},"_id":"SJ5wvREBUJbluPva"}
+{"_id":"SJ5wvREBUJbluPva","name":"Sara","flags":{},"role":1,"permissions":{},"password":"tacos","color":"#41cc28","hotbar":{}}
+{"_id":"Roozgd0vq3r0K5sn","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#83cc28","hotbar":{"2":"u3YtVOJSlycaMgLk"}}
+{"_id":"Roozgd0vq3r0K5sn","name":"Gamemaster","flags":{},"role":4,"permissions":{},"password":"","color":"#83cc28","hotbar":{"1":"KWmOsLhWo7a4viec","2":"u3YtVOJSlycaMgLk"}}

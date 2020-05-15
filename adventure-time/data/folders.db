@@ -1,2 +1,10 @@
 {"_id":"1NLVeKl16eFntJIG","name":"Cragmaw Hideout","type":"Actor","sort":100000,"flags":{},"parent":null,"color":""}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"_id":"4QO450Ss57TQuOXR"}
 {"name":"Characters","type":"Actor","sort":200000,"flags":{},"parent":null,"color":"","_id":"YhPnpogmi0U0Y5ey"}
+{"name":"Homebrew Items","type":"Item","sort":null,"flags":{},"parent":null,"color":"","_id":"oWQP2qlhY57cjLLL"}
+{"name":"Session 1","type":"JournalEntry","sort":null,"flags":{},"parent":null,"color":"","_id":"zcTJV3P8vWC6dNlA"}
+{"name":"Appendix","type":"JournalEntry","sort":null,"flags":{},"parent":null,"color":"","_id":"qUt9QIQJ5D2oCtgk"}
+{"name":"Acquisitions Incorporated","type":"JournalEntry","sort":null,"flags":{},"parent":null,"color":"","_id":"LPEqZHHGuBp2LGtr"}
+{"name":"Items","type":"Item","sort":100000,"flags":{},"parent":null,"_id":"W26LweiukMrab0ki"}
+{"name":"Spells","type":"Item","sort":200000,"flags":{},"parent":null,"_id":"FgxI5Bt6XK6cftxl"}
+{"name":"Creatures","type":"Actor","sort":300000,"flags":{},"parent":null,"_id":"75S79FEq4RZWun4b"}

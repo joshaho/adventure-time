@@ -8,7 +8,35 @@
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Backgrounds",
+      "entity": "Item",
+      "name": "backgrounds",
+      "path": "packs/backgrounds.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/Users/joshaho/Library/Application Support/FoundryVTT/Data/worlds/adventure-time/packs/backgrounds.db"
+    },
+    {
+      "label": "Race Features",
+      "entity": "Item",
+      "name": "race-features",
+      "path": "packs/race-features.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/Users/joshaho/Library/Application Support/FoundryVTT/Data/worlds/adventure-time/packs/race-features.db"
+    },
+    {
+      "label": "Classes",
+      "entity": "Item",
+      "name": "classes",
+      "path": "packs/classes.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/Users/joshaho/Library/Application Support/FoundryVTT/Data/worlds/adventure-time/packs/classes.db"
+    }
+  ],
   "languages": [],
   "authors": [],
   "keywords": [],
@@ -24,5 +52,8 @@
   "system": "dnd5e",
   "coreVersion": "0.5.5",
   "systemVersion": 0.88,
-  "nextSession": "2020-05-10T19:00"
+  "nextSession": "2020-05-10T19:00",
+  "availability": 0,
+  "unavailable": false,
+  "id": "adventure-time"
 }
